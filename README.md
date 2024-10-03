@@ -104,15 +104,13 @@ Ensure you have the following installed on your system:
 ## Screenshots
 
 ### Main Screen
-![Main Screen](https://github.com/user-attachments/assets/7aca8cec-1da6-4361-ac01-3825a6c1a760)
+![Main Screen](https://github.com/user-attachments/assets/45754d29-adaf-4d9e-9573-95a0643ea691)
 
 ### Add / Edit Contact
-
-![ Add / Edit ](https://github.com/user-attachments/assets/b433c04f-cc49-42ab-936e-a280f6005862)
+![ Add / Edit ](https://github.com/user-attachments/assets/3eca94d0-cb74-4154-871b-1c83c9a8e139)
 
 ### Database ( conatacts.txt )
-
-![contacts.txt](https://github.com/user-attachments/assets/5c7793fd-9158-468a-a645-8ecb2adef7f7)
+![contacts.txt](https://github.com/user-attachments/assets/44c9a95c-92dc-4111-9028-3dcafa6847a1)
 
 ### & Many More
 
